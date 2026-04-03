@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Cartier
 
-<!--
-**cxrtier11/cxrtier11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital creator focused on web projects, branding, and online presence.  
+Currently building my portfolio on GitHub.
 
-Here are some ideas to get you started:
+## About Me
+I'm interested in digital projects, web design, branding, and creating a strong online identity.  
+I like turning ideas into simple, clean, and concrete projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- HTML
+- CSS
+- JavaScript
+- GitHub
+- GitHub Pages
+- Branding
+- Web Design
+
+## Current Focus
+- Building my GitHub portfolio
+- Publishing my first projects
+- Improving my digital presence
+
+## Contact
+- GitHub: https://github.com/cxrtier11
